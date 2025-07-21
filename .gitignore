@@ -1,0 +1,57 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio working folder
+.vs/
+
+## Rider project files
+.idea/
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Log files
+*.log
+
+## DotCover
+.idea/.idea.DotSettings
+
+## Mac OS metadata files
+__MACOSX/
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.temp
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# VS Code
+.vscode/
+
+# Others
+*.dbmdl
+*.pdb
