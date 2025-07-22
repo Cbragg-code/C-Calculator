@@ -21,8 +21,8 @@ This project implements a **menu-driven calculator** in C# designed to demonstra
 
 ## How to Run
 1. Open the solution in **Visual Studio 2022**
-2. Build the project (Ctrl+Shift+B)
-3. Run the project (Ctrl+F5) and follow the terminal prompts
+2. Build the project
+3. Run the project and follow the terminal prompts
 
 ## Notes
 - Designed as a **terminal-based application** with clean user interaction.
